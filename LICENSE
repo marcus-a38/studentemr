@@ -74,17 +74,16 @@
       this License, each Contributor hereby grants to You a perpetual,
       worldwide, non-exclusive, no-charge, royalty-free, irrevocable
       (except as stated in this section) patent license to make, have made,
-      use, offer to sell, sell, import, and otherwise transfer the Work,
-      where such license applies only to those patent claims licensable
-      by such Contributor that are necessarily infringed by their
-      Contribution(s) alone or by combination of their Contribution(s)
-      with the Work to which such Contribution(s) was submitted. If You
-      institute patent litigation against any entity (including a
-      cross-claim or counterclaim in a lawsuit) alleging that the Work
-      or a Contribution incorporated within the Work constitutes direct
-      or contributory patent infringement, then any patent licenses
-      granted to You under this License for that Work shall terminate
-      as of the date such litigation is filed.
+      use, import, and otherwise transfer the Work, where such license 
+      applies only to those patent claims licensable by such Contributor 
+      that are necessarily infringed by their Contribution(s) alone or by 
+      combination of their Contribution(s) with the Work to which such 
+      Contribution(s) was submitted. If You institute patent litigation 
+      against any entity (including a cross-claim or counterclaim in a 
+      lawsuit) alleging that the Work or a Contribution incorporated 
+      within the Work constitutes direct or contributory patent infringement, 
+      then any patent licenses granted to You under this License for that 
+      Work shall terminate as of the date such litigation is filed.
 
    4. Redistribution. You may reproduce and distribute copies of the
       Work or Derivative Works thereof in any medium, with or without
@@ -173,20 +172,23 @@
       incurred by, or claims asserted against, such Contributor by reason
       of your accepting any such warranty or additional liability.
 
-  10. “Commons Clause” License Condition v1.0
-      The Software is provided to you by the Licensor under the License,
-      as defined below, subject to the following condition:
-      Without limiting other conditions in the License, the grant of 
-      rights under the License will not include, and the License does not 
-      grant to you, the right to Sell the Software.
-      For purposes of the foregoing, “Sell” means practicing any or all 
-      of the rights granted to you under the License to provide to third
-      parties, for a fee or other consideration (including without 
-      limitation fees for hosting or consulting/ support services related 
-      to the Software), a product or service whose value derives, entirely 
-      or substantially, from the functionality of the Software. Any license 
-      notice or attribution required by the License must also include this 
-      Commons Clause License Condition notice.
+  ADDITIONAL TERMS UNDER THE "COMMONS CLAUSE" LICENSE CONDITION v1.0
+
+  1. Definitions.
+
+     For purposes of the foregoing, “Sell” means practicing any or all 
+     of the rights granted to you under the License to provide to third
+     parties, for a fee or other consideration (including without 
+     limitation fees for hosting or consulting/ support services related 
+     to the Software), a product or service whose value derives, entirely 
+     or substantially, from the functionality of the Software. 
+
+   2. Redistribution. Without limiting other conditions in the License, the grant 
+      of rights under the License will not include, and the License does not grant 
+      to you, the right to Sell the Software.
+
+   3. Any license notice or attribution required by the License must also 
+      include this Commons Clause License Condition notice.
 
    END OF TERMS AND CONDITIONS
 
